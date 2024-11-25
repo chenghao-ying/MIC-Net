@@ -20,8 +20,10 @@ Training command :python train.py
 Testing command :python test.py
 
 Results:
-Qualitative results: we provide the prediction maps of RGB-D COD task, you can download them from [https://pan.baidu.com/s/1BFte3pw7YUkyHTUWaVtj7A?pwd=x3r4 提取码：x3r4]
+Qualitative results: we provide the prediction maps of RGB-D COD task, you can download them from 
+[https://pan.baidu.com/s/1BFte3pw7YUkyHTUWaVtj7A?pwd=x3r4 提取码：x3r4]
 
-Qualitative results: we provide the prediction maps of RGB-D SOD task, you can download them from [https://pan.baidu.com/s/1v2txi-1S84pUkfyC8VDE0A?pwd=sx3p 提取码：sx3p]
+Qualitative results: we provide the prediction maps of RGB-D SOD task, you can download them from 
+[https://pan.baidu.com/s/1v2txi-1S84pUkfyC8VDE0A?pwd=sx3p 提取码：sx3p]
 
 evaluation :python eval.py
